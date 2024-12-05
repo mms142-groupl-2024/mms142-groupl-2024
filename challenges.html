@@ -17,11 +17,21 @@
 <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-	<style>
+    <style>
 		@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
 		.title {
 			font-family: 'Orbitron', sans-serif;
 			letter-spacing: 3px; 
+			font-size: 24px;
+		}
+		.logo-container {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+		}
+		.logo-container img {
+			width: 60px;
+			height: 60px;
 		}
 	</style>
 </head>
@@ -38,7 +48,10 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-					<h3 class="title">DISRUPTIVE  TECHNOLOGIES</h3>
+					<div class="logo-container">
+						<img src="img/logo.png" alt="" class="mr-3">
+						<h3 class="title">DISRUPTIVE TECHNOLOGIES</h3>
+					</div>
                     <!--<a class="navbar-brand" href="index.html"><img src="img/logo.png" alt="logo"/></a>-->
                 </div>
                 <div class="navbar-collapse collapse ">
