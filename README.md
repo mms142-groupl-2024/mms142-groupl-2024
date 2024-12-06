@@ -1,4 +1,4 @@
-Free Responsive Bootstrap Templates
+Free Responsive Bootstrap Template
 
 Basic is a free HTML5/CSS3 website template for multi-purpose requirment, This is well clean and clear html5 template built with valid HTML5 & CSS3. It's based on latest Bootstrap framework, fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose requirments like business, consultancy, agency, personal portfolio, profile, mobile website and start-up company.
 
